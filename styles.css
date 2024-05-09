@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+.calculator{
+    width: 20%;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+
+.display{
+    width: 80%;
+    height: 100px;
+    margin: 10px;
+    font-size: 52px;
+    text-align: right;
+    border: none;
+    padding: 10px;
+}
+
+.btn{
+    border-radius: 0px;
+}
